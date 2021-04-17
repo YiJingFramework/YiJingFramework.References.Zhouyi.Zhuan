@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YiJingFramework.References.Zhouyi.Zhuan", "YiJingFramework.References.Zhouyi.Zhuan\YiJingFramework.References.Zhouyi.Zhuan.csproj", "{82479094-3055-4987-B531-ADBDA86C5738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YiJingFramework.References.Zhouyi.Zhuan", "YiJingFramework.References.Zhouyi.Zhuan\YiJingFramework.References.Zhouyi.Zhuan.csproj", "{82479094-3055-4987-B531-ADBDA86C5738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YiJingFramework.References.Zhouyi.ZhuanTests", "YiJingFramework.References.Zhouyi.ZhuanTests\YiJingFramework.References.Zhouyi.ZhuanTests.csproj", "{77D36BCA-9A6F-4B64-8626-09A102ECC915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YiJingFramework.References.Zhouyi.ZhuanTests", "YiJingFramework.References.Zhouyi.ZhuanTests\YiJingFramework.References.Zhouyi.ZhuanTests.csproj", "{77D36BCA-9A6F-4B64-8626-09A102ECC915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{6EC4F0BF-41FC-4F9C-ACEC-B954E5995334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{77D36BCA-9A6F-4B64-8626-09A102ECC915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77D36BCA-9A6F-4B64-8626-09A102ECC915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77D36BCA-9A6F-4B64-8626-09A102ECC915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC4F0BF-41FC-4F9C-ACEC-B954E5995334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC4F0BF-41FC-4F9C-ACEC-B954E5995334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC4F0BF-41FC-4F9C-ACEC-B954E5995334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC4F0BF-41FC-4F9C-ACEC-B954E5995334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
