@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YiJingFramework.References.Zhouyi.Zhuan", "YiJingFramework.References.Zhouyi.Zhuan\YiJingFramework.References.Zhouyi.Zhuan.csproj", "{82479094-3055-4987-B531-ADBDA86C5738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YiJingFramework.References.Zhouyi.ZhuanTests", "YiJingFramework.References.Zhouyi.ZhuanTests\YiJingFramework.References.Zhouyi.ZhuanTests.csproj", "{77D36BCA-9A6F-4B64-8626-09A102ECC915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82479094-3055-4987-B531-ADBDA86C5738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82479094-3055-4987-B531-ADBDA86C5738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82479094-3055-4987-B531-ADBDA86C5738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82479094-3055-4987-B531-ADBDA86C5738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D36BCA-9A6F-4B64-8626-09A102ECC915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D36BCA-9A6F-4B64-8626-09A102ECC915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D36BCA-9A6F-4B64-8626-09A102ECC915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D36BCA-9A6F-4B64-8626-09A102ECC915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3501A608-0BA6-4C77-98CE-AEEBE173AFCA}
+	EndGlobalSection
+EndGlobal
