@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "TranslationFilePacker": {
+      "commandName": "Project"
+    },
+    "tuan": {
+      "commandName": "Project",
+      "commandLineArgs": "t tuan.json tuan_out.json"
+    },
+    "xiang": {
+      "commandName": "Project",
+      "commandLineArgs": "x xiang.json xiang_out.json"
+    }
+  }
+}
