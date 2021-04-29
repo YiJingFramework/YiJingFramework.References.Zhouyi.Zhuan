@@ -153,7 +153,7 @@ namespace YiJingFramework.References.Zhouyi.Zhuan
                     throw new ArgumentNullException(nameof(line));
 
                 if (line.LineIndex is 0)
-                    return line.LineAttribute is Core.LineAttribute.Yang ?
+                    return line.YinYang.IsYang ?
                         this.translation.XiangOfApplyNines : this.translation.XiangOfApplySixes;
 
                 return this.translation.XiangTexts[line.From.Index - 1].Lines[line.LineIndex - 1];

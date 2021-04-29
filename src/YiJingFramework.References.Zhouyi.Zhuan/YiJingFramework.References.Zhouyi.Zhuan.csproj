@@ -15,6 +15,7 @@
     <PackageProjectUrl>https://github.com/YiJingFramework/YiJingFramework.References.Zhouyi.Zhuan/wiki</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>zhouyi;i-ching;yijing;yijingframework</PackageTags>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -22,7 +23,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="YiJingFramework.References.Zhouyi" Version="3.1.0" />
+    <PackageReference Include="YiJingFramework.References.Zhouyi" Version="4.0.0" />
   </ItemGroup>
 
   <ItemGroup>
