@@ -11,7 +11,8 @@ namespace TranslationFilePacker
         static void Main(string[] args)
         {
             Console.WriteLine("======================");
-            Console.WriteLine("Translation File Packer For YiJingFramework.References.Zhouyi.Zhuan 1.0.0.");
+            Console.WriteLine("Translation File Packer For YiJingFramework.References.Zhouyi.Zhuan.");
+            Console.WriteLine("Target translation file version: TR-1.");
             if (args.Length != 3 || (args[0].ToLower() is not "t" and not "x"))
             {
                 Console.WriteLine("Format: <Type ('t'=tuan, 'x'=xiang)> <InputFile> <OutputFile>");
