@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="YiJingFramework.References.Zhouyi.Zhuan" Version="1.0.0" />
+    <PackageReference Include="YiJingFramework.References.Zhouyi.Zhuan" Version="2.0.0" />
   </ItemGroup>
 
   <ItemGroup>
