@@ -1,0 +1,2 @@
+> dotnet TranslationFilePacker.dll x xiang.json xiang_out.json
+> dotnet TranslationFilePacker.dll t tuan.json tuan_out.json

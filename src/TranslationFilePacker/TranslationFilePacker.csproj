@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Update="example commands.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="tuan.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
