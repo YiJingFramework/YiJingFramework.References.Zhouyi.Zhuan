@@ -19,7 +19,7 @@ namespace Examples
             var jian = zhouyi.GetHexagram(53);
             Console.WriteLine($"{tuanzhuan[jian]}---{xiangZhuan[jian]}---{xiangZhuan[jian.FirstLine]}");
             Console.WriteLine();
-            // 渐之进也，女归吉也。进得位，往有功也。进以正，可以正邦也。其位刚得中也。止而巽，动不穷也。---山上有木，渐。君子以居贤德 善俗。---“小子之厉”，义无咎也。
+            // Output: 渐之进也，女归吉也。进得位，往有功也。进以正，可以正邦也。其位刚得中也。止而巽，动不穷也。---山上有木，渐。君子以居贤德 善俗。---“小子之厉”，义无咎也。
         }
     }
 }
