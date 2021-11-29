@@ -7,7 +7,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>yueyinqiu5990</Authors>
     <Company>YiJingFramework</Company>
-    <Description>YiJingFramework is a C# library (group) about Yi Jing.</Description>
+    <Description>YiJingFramework.References.Zhouyi.Zhuan provides the texts in YiZhuan.</Description>
     <Copyright>Copyright © 2021 yueyinqiu5990. All rights reserved.</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>Taichi.png</PackageIcon>
