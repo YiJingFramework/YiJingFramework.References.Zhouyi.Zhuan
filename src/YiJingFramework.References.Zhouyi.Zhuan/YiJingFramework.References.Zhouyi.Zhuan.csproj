@@ -4,10 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <Authors>yueyinqiu5990</Authors>
     <Company>YiJingFramework</Company>
-    <Description>YiJingFramework.References.Zhouyi.Zhuan provides the texts in YiZhuan.</Description>
+    <Description>This package provides support for the query of Xiangzhuan and Tuanzhuan in Yizhuan for Zhouyi.</Description>
     <Copyright>Copyright © 2021 yueyinqiu5990. All rights reserved.</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>Taichi.png</PackageIcon>
@@ -15,7 +15,7 @@
     <PackageProjectUrl>https://github.com/YiJingFramework/YiJingFramework.References.Zhouyi.Zhuan/wiki</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>zhouyi;i-ching;yijing;yijingframework</PackageTags>
-    <Version>3.0.0</Version>
+    <Version>3.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -23,7 +23,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="YiJingFramework.References.Zhouyi" Version="5.0.0" />
+    <PackageReference Include="YiJingFramework.References.Zhouyi" Version="5.0.1" />
   </ItemGroup>
 
   <ItemGroup>
